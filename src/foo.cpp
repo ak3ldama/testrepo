@@ -2,7 +2,7 @@
 
 double foo(int ignored)
 {
-	double ret = 18;
+	double ret = 19;
 	double i = ignored;
 	
 	if (i > 0) {
